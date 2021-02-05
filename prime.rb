@@ -5,7 +5,7 @@ def prime?(integer)
       if integer % denominator != 0
         denominator += 1
       else 
-        false
+        return false
       end
     end
     true
