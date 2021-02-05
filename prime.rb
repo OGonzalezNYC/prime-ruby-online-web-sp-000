@@ -14,3 +14,6 @@
 #   end
 # end
 
+def prime?(integer)
+  
+end
